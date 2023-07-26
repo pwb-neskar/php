@@ -24,29 +24,43 @@
 3. Installasi XAMPP
    [Watch the video](https://www.youtube.com/embed/bSxf7Prh43I)
 4. Menjalankan XAMPP
+
    Ketika sudah selesai menginstall XAMPP, buka aplikasi Xampp lalu akan tampil panel seperti berikut :
+
    !['xampp](https://lh3.googleusercontent.com/-zW57diGnmJ8/YWfq5Puc4wI/AAAAAAAAEiI/c-VEzmPEEz05eHVPhUyADgISh605aX-QACLcBGAsYHQ/w640-h387/image.png)
-   Nyalakan module Apache dan Mysql dengan cara menge-klik tombol start pada panel. Jika tidak terdapat error, maka kita dapat mengecek ke browser lalu buka alamat url localhost . Tampilan localhost pertama kali akan menunjukkan seperti berikut:
+
+   Nyalakan module Apache dan Mysql dengan cara menge-klik tombol start pada panel. Jika tidak terdapat error, maka kita dapat mengecek ke browser lalu buka alamat url localhost.
+
+   Tampilan localhost pertama kali akan menunjukkan seperti berikut:
+   
    !['xampp dashboard'](https://kinsta.com/wp-content/uploads/2021/04/xampp-home-page.jpg)
-5. Folder htdocs
+6. Folder htdocs
+
    Pada folder instalasi XAMPP , WAMP atau MAMP terdapat folder htdocs. Lokasi nya biasanya dapat kita akses ke *C:/xampp/htdocs*.
+
    !['htdocs'](https://www.rumahweb.com/journal/wp-content/uploads/2022/12/folder-belajar.jpg)
-6. Mulai Menulis PHP
+7. Mulai Menulis PHP
+
    Sintaks PHP ditulis di dalam tag php seperti berikut:
+
    !['sintaks php'](https://kelasprogrammer.com/wp-content/uploads/2019/07/struktur-php.png)
-7. sintaks [contoh](src/1-basic-php/1-sintaks.php)
-8. komentar [contoh](src/1-basic-php/2-komentar.php)
-9. Variabel dan titik koma
+8. sintaks [contoh](src/1-basic-php/1-sintaks.php)
+9. komentar [contoh](src/1-basic-php/2-komentar.php)
+10. Variabel dan titik koma
+
     Untuk menulis satu variabel di dalam PHP digunakan tanda **$** . Aturannya adalah
     - tidak boleh menggunakan angka di depan nama variabel tapi boleh menggunakan angka di tempat lain.
     - tidak boleh memuat spesial karakter (~!@#$%. dan lain lain)
     
     Setiap baris kode wajib menggunakan semikolon atau titik koma di akhir baris kode.
     [contoh](src/1-basic-php/3-variabel-dan-titik-koma.php)
-10. Menampilkan Output Standar [contoh](src/1-basic-php/4-output-standar.php)
-11. Tipe Data String [contoh](src/1-basic-php/5-string.php)
+12. Menampilkan Output Standar [contoh](src/1-basic-php/4-output-standar.php)
+13. Tipe Data String [contoh](src/1-basic-php/5-string.php)
+
     Tipe data String yaitu tipe data yang berisi karakter-karakter dan biasa ditandai dengan pasangan tanda petik ganda (” “) atau tanda petik tunggal (‘ ‘).
-12. Tipe Data Array [contoh](src/1-basic-php/6-array.php)
+    
+15. Tipe Data Array [contoh](src/1-basic-php/6-array.php)
+
     tipe data array adalah tipe data yang mampu menampung lebih dari satu data. Elemen dari array ditandai dengan indeks agar dapat diakses. indeks array selalu diawali dengan indeks 0.
 
 Dokumentasi PHP resmi
