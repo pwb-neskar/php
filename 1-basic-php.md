@@ -22,7 +22,7 @@
    </div>
 
 3. Installasi XAMPP
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/bSxf7Prh43I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   [Watch the video](https://www.youtube.com/embed/bSxf7Prh43I)
 4. Menjalankan XAMPP
    Ketika sudah selesai menginstall XAMPP, buka aplikasi Xampp lalu akan tampil panel seperti berikut :
    !['xampp](https://lh3.googleusercontent.com/-zW57diGnmJ8/YWfq5Puc4wI/AAAAAAAAEiI/c-VEzmPEEz05eHVPhUyADgISh605aX-QACLcBGAsYHQ/w640-h387/image.png)
