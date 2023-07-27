@@ -61,6 +61,9 @@ Buatlah sebuah file dengan nama soal-satu.php yang disimpan di dalam folder php-
 </body>
 </html>
 ```
+OUTPUT 
+!['Soal satu'](../assets/img/soal-2.png)
+
 
 ## Soal Array
 Buatlah sebuah file dengan nama soal-dua.php yang disimpan di dalam folder php-basic-1 lalu salin kode di bawah ini:
@@ -179,5 +182,7 @@ Buatlah sebuah file dengan nama soal-dua.php yang disimpan di dalam folder php-b
 </body>
 </html>
 ```
+!['Soal satu'](../assets/img/soal-1.png)
+
 
 **kumpulkan file soal-satu.php dan soal-dua.php ke repositori github masing-masing dan kumpulkan pada google form. link menyusul di grup kelas.**
