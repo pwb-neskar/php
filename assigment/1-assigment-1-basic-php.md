@@ -22,7 +22,6 @@ Buatlah sebuah file dengan nama soal-satu.php yang disimpan di dalam folder php-
         /* 
             SOAL NO 1
             Tunjukan dengan menggunakan echo berapa panjang dari string yang diberikan berikut! Tunjukkan juga jumlah kata di dalam kalimat tersebut! 
-
             Contoh: 
             $string = "PHP is never old";
             Output:
@@ -37,8 +36,6 @@ Buatlah sebuah file dengan nama soal-satu.php yang disimpan di dalam folder php-
         /* 
             SOAL NO 2
             Mengambil kata pada string dan karakter-karakter yang ada di dalamnya. 
-            
-            
         */
         $string2 = "I love PHP";
         
