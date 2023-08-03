@@ -117,9 +117,6 @@ Buatlah sebuah file looping.php di dalam direktori php-2 yang barusan sudah dibu
 Buatlah sebuah file dengan nama function-conditional.php lalu salin kode berikut :
 
 ```php
-
-
-```
 <!DOCTYPE html>
 <html lang="en">
 
@@ -224,3 +221,4 @@ sama dengan 60 dan lebih kecil dari 70 maka akan mereturn string “Cukup” sel
 </body>
 
 </html>
+```
