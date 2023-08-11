@@ -5,9 +5,16 @@ Di dalam OOP, kita dapat memetakan persoalan-persoalan dalam program dengan meme
 
 Setiap class dalam OOP mempunyai method atau fungsi serta property atau atribut. method adalah kemampuan dari class untuk melakukan sesuatu. sedangkan property adalah segala sesuatu yang dimiliki oleh class.
 
+![oop1](assets/img/oop1.png)
+
+
 ## Class dan Object
 
 class adalah cetakan atau blueprint dari objek. Di dalam class terdapat property dan method. contohnya di bawah ini, terdapat class car yang merupakan cetakan dari objek-objek mobil. Pada gambar sebelumnya class car bisa memiliki method yaitu ```refuel(), getSpeed(), setSpeed(), drive() dan memiliki property fuel, maxspeed```.
+
+![oop1](assets/img/oop2.png)
+
+contoh class:
 
 ```php
 <?php
